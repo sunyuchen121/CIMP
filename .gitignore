@@ -1,7 +1,0 @@
-.gitignore
-venv
-.idea
-settings.example.py
-db.sqlite3
-CIMP/__pycache__/
-

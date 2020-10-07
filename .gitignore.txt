@@ -1,0 +1,7 @@
+.gitignore
+venv
+.idea
+settings.py
+db.sqlite3
+CIMP/__pycache__/
+media/
