@@ -1,4 +1,5 @@
 # Django #
+settings.example.py
 *.log
 *.pot
 *.pyc
