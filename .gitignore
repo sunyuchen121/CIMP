@@ -1,7 +1,8 @@
 .gitignore
 venv
 .idea
-settings.example.py
+settings.py
 db.sqlite3
 myblog/__pycache__/
 media/
+
